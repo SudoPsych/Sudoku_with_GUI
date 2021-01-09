@@ -8,4 +8,4 @@ Much of the code in Sudoku_Game.py is not used in the final program since I deve
 Finally, I used PyInstaller to convert all the code into a clickable desktop icon (hence why the puzzles are stored in a list instead of a .txt file).
 The text file for the puzzles is provided and that could be used instead of the .py file with a few tweaks to the code.
 
-his was a beginner project to get used to classes and Tkinter.
+This was a beginner project to get used to classes and Tkinter.
